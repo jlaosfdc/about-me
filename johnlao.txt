@@ -1,2 +1,3 @@
 Color = Black
-No, Blue!
+#No, Blue!
+I want Red!
